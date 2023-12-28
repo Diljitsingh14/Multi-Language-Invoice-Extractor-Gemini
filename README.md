@@ -21,3 +21,10 @@ The "Invoice Detail Extractor from Image" project utilizes the power of Google G
 
 6. run the streamlit app
    `streamlit run ./app.py`
+
+## Demo
+
+![Alt text](image.png)
+![Alt text](image-1.png)
+
+<video src='./example/Demo.mp4'>
