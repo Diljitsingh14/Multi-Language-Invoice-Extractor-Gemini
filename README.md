@@ -25,9 +25,9 @@ The "Invoice Detail Extractor from Image" project utilizes the power of Google G
 ## Demo
 
 ![Demo1](./example/demo-img-1.png)
-![Demo1](./example/demo-img-2.png)
+![Demo2](./example/demo-img-2.png)
 
-<video width="640" height="480" controls>
+<!-- <video width="640" height="480" controls>
   <source src="./example/Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
-</video>
+</video> -->
