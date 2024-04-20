@@ -41,7 +41,7 @@ if upload_file is not None:
     image = Image.open(upload_file)
     st.image(image, caption="Uploaded Image", use_column_width=True)
 
-submit = st.button("Tell me about the invoice")
+submit = st.button("Tell me about ")
 
 input_prompt = """
  you are an expert in understanding invoices. We will uploaded a image as invoice and
@@ -51,5 +51,5 @@ input_prompt = """
 if submit:
     images_data = input_image_value(upload_file)
     response = generate(input, images_data, input_prompt)
-    st.subheader("The Response is ")
+    st.subheader("The Response is :")
     st.write(response)
